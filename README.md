@@ -152,46 +152,6 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sirivabilisetty280-jpg&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirivabilisetty280-jpg&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sirivabilisetty280-jpg&theme=tokyonight&hide_border=true"/>
-</p>
-
-
----
-
-# 🏆 GitHub Trophy
-
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sirivabilisetty280-jpg&theme=tokyonight&no-frame=true&row=1"/>
-</p>
-
-
----
-
-# 🐍 Contribution Snake
-
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/sirivabilisetty280-jpg/sirivabilisetty280-jpg/output/github-contribution-grid-snake.svg"/>
-</p>
-
-
----
-
 # 🌐 Connect With Me
 
 
