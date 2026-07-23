@@ -6,11 +6,11 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Machine+Learning+Explorer;Data+Analytics+Enthusiast;Python+Developer;Building+AI+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Machine+Learning+Explorer;Data+Analytics+Enthusiast;Python+Developer;Building+Intelligent+Solutions" />
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:007BFF&height=200&section=header&text=Siri%20Vabilisetty&fontSize=50&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0066FF&height=180&section=header&text=AI%20%7C%20Machine%20Learning%20%7C%20Data%20Analytics&fontSize=35&fontColor=FFFFFF"/>
 </p>
 
 
@@ -32,41 +32,42 @@
 # 🛠️ Technical Skills
 
 
-## 👨‍💻 Programming Languages
+### 👨‍💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,html" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-## 🤖 AI & Machine Learning
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,sklearn" />
-</p>
-
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- Jupyter Notebook
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
-## 📊 Data Analytics Tools
+### 🤖 AI & Data Science
 
-<p>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-</p>
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 
-## 🎨 Creative Skills
+### 📊 Data Analytics Tools
 
-- UI/UX Fundamentals
-- Video Editing
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+
+### 🧰 Tools
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
 ---
@@ -80,7 +81,7 @@
 🔹 Performed data preprocessing and feature analysis  
 🔹 Built a Streamlit web application for user-friendly predictions  
 
-**Technologies**
+**Technologies:**
 
 `Python` `Pandas` `Scikit-learn` `Streamlit` `Joblib`
 
@@ -90,10 +91,10 @@
 ## 🏠 House Price Prediction
 
 🔹 Developed a regression model for house price prediction  
-🔹 Applied preprocessing techniques  
-🔹 Evaluated model performance using ML metrics  
+🔹 Applied preprocessing and evaluation techniques  
+🔹 Improved understanding of predictive analytics concepts  
 
-**Technologies**
+**Technologies:**
 
 `Python` `Pandas` `NumPy` `Scikit-learn`
 
@@ -104,9 +105,9 @@
 
 🔹 Analyzed restaurant datasets  
 🔹 Identified customer preferences and rating trends  
-🔹 Generated insights using visualization techniques  
+🔹 Generated insights using data visualization  
 
-**Technologies**
+**Technologies:**
 
 `Python` `Pandas` `NumPy` `Matplotlib`
 
@@ -184,7 +185,7 @@
 # 🌐 Connect With Me
 
 
-<p align="left">
+<p align="center">
 
 <a href="https://linkedin.com/in/siri-vabilisetty-261360341">
 
@@ -195,7 +196,7 @@
 
 <a href="mailto:sirivobilisetty280@gmail.com">
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 </a>
 
