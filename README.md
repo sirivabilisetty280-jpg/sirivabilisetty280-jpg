@@ -9,7 +9,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Machine+Learning+Explorer;Data+Analytics+Enthusiast;Python+Developer;Building+AI+Solutions" />
 </p>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:007BFF&height=200&section=header&text=Siri%20Vabilisetty&fontSize=50&fontColor=ffffff" />
+</p>
+
 
 ## 👩‍💻 About Me
 
@@ -36,10 +39,10 @@
 </p>
 
 
-## 🤖 AI & Data Science
+## 🤖 AI & Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python,sklearn" />
 </p>
 
 - Pandas
@@ -49,15 +52,18 @@
 - Jupyter Notebook
 
 
-## 📊 Data Analytics & Tools
+## 📊 Data Analytics Tools
 
-- Power BI
-- Advanced Excel
-- Microsoft Office
-- Data Visualization
+<p>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+</p>
 
 
-## 🎨 Design Skills
+## 🎨 Creative Skills
 
 - UI/UX Fundamentals
 - Video Editing
@@ -70,45 +76,42 @@
 
 ## ₿ Bitcoin Price Prediction using Machine Learning
 
-- Developed a Machine Learning model for Bitcoin price prediction
-- Performed data preprocessing and feature analysis
-- Built a Streamlit web application for real-time predictions
+🔹 Developed a Machine Learning model to predict Bitcoin prices  
+🔹 Performed data preprocessing and feature analysis  
+🔹 Built a Streamlit web application for user-friendly predictions  
 
-**Technologies:**
+**Technologies**
 
-`Python` `Pandas` `Scikit-learn` `Streamlit` `Joblib` `Jupyter Notebook`
+`Python` `Pandas` `Scikit-learn` `Streamlit` `Joblib`
 
 
 ---
 
-
 ## 🏠 House Price Prediction
 
-- Developed a regression-based ML model for predicting house prices
-- Applied data preprocessing techniques
-- Evaluated model performance using ML metrics
+🔹 Developed a regression model for house price prediction  
+🔹 Applied preprocessing techniques  
+🔹 Evaluated model performance using ML metrics  
 
-**Technologies:**
+**Technologies**
 
 `Python` `Pandas` `NumPy` `Scikit-learn`
 
 
 ---
 
-
 ## 🍽️ Zomato Data Analysis
 
-- Analyzed restaurant datasets to identify customer preferences
-- Performed data cleaning and exploratory data analysis
-- Generated insights using visualization techniques
+🔹 Analyzed restaurant datasets  
+🔹 Identified customer preferences and rating trends  
+🔹 Generated insights using visualization techniques  
 
-**Technologies:**
+**Technologies**
 
-`Python` `Pandas` `NumPy` `Matplotlib` `Jupyter Notebook`
+`Python` `Pandas` `NumPy` `Matplotlib`
 
 
 ---
-
 
 # 📜 Certifications
 
@@ -129,7 +132,6 @@
 
 ---
 
-
 # 🏆 Achievements
 
 🥇 **1st Prize** – Aditya Abhyas Practice Tests
@@ -141,33 +143,43 @@
 
 ---
 
-
 # 📊 GitHub Analytics
 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sirivabilisetty280-jpg&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sirivabilisetty280-jpg&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirivabilisetty280-jpg&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirivabilisetty280-jpg&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sirivabilisetty280-jpg&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sirivabilisetty280-jpg&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 
 ---
 
+# 🏆 GitHub Trophy
+
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sirivabilisetty280-jpg&theme=tokyonight&no-frame=true&row=1"/>
+
+</p>
+
+
+---
 
 # 🌐 Connect With Me
 
@@ -199,5 +211,4 @@
 
 ---
 
-
-⭐ **"Learning today, building intelligent solutions for tomorrow."**
+⭐ **Learning today, building intelligent solutions for tomorrow.**
